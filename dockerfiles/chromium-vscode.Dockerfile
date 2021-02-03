@@ -1,4 +1,4 @@
-FROM ashwinvbs/xpra:latest
+FROM mcr.microsoft.com/vscode/devcontainers/base:focal
 
 USER root
 
